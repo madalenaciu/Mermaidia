@@ -8,10 +8,12 @@ As time passes, the speed at which obstacles appear is programmed to increase, m
 The game ends when the player loses all their lives.
 
 # Install express
-First, navigate to your project folder in the terminal.
-Run the following command to initialize a package.json file: npm init -y
-Install the express package running the follow command : npm install express
-In the terminal, run:node server.js
+<ol>
+<li>Navigate to your project folder in the terminal.</li>
+<li>Run the following command to initialize a package.json file: npm init -y</li>
+<li>Install the express package running the follow command : npm install express</li>
+<li>In the terminal, run:node server.js</li>
+</ol>
 So you can open your browser and navigate to http://localhost:3000/ to play the game!
 
 # Install p5.js
