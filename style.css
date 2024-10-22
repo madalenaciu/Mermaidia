@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#startButton {
+  position: absolute;
+  padding: 10px 20px;
+  display:block;
+  font-size:18px;
+  background-color:blueviolet;
+  color:white;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+
+}
+
+#startButton:hover {
+  background-color: #45a049; /* Darker green color on hover */
+}
+#container{
+  justify-content: center;
+  display:flex;
+  align-items:center;
+  position:absolute;
+  
+}
+button{
+  margin:0 10px;
+}
